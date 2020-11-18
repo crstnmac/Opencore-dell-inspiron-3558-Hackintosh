@@ -32,6 +32,7 @@ Intel Core i3-5005U, Intel HD Graphics 5500
 - [x] CPU power management
 - [x] Webcam
 - [x] USB ports
+- [x] USB Tethering
 
 # SMBIOS:
 MacBookPro12,1
