@@ -16,7 +16,7 @@ Intel Core i3-5005U, Intel HD Graphics 5500
 
 # Working:
 
-- [x] macOS Cataline
+- [x] macOS Catalina
 - [x] macOS BigSur
 - [x] Intel HD Graphics 5500
 - [x] Brightness slider
